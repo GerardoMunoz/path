@@ -40,7 +40,7 @@ Features
 
 
 For now, only changes in the paths can be saved.
-* If you want to delete a path, you can do it in the prerequisites.csv file.
+* If you want to delete a path, you can do it in the prerequisites.csv file, writing a 0 in the `Camino` column.
 * The deleted paths appear as white lines when you press the Reload button.
 * These paths can be created if AutoPath is enabled when pressing Reload.
 * Using the small squares, you can reposition the path.
