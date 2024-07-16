@@ -12,9 +12,9 @@ This Tkinter application visualizes curriculum data and prerequisite connections
 This file contains the curriculum data, including subject positions and additional information. The file should be a CSV with columns like Código, Nombre, Área, Semestre, Créditos, Horas, Posición
 
 Example:
-* Código,Nombre,Área,Semestre,Créditos,Horas
-* MAT101,Cálculo I,Matemáticas,1,5,80
-* FIS101,Física I,Física,1,4,60
+* Código,Nombre,Área,Semestre,Créditos,Horas,Posición
+* MAT101,Cálculo I,Matemáticas,1,5,80,1
+* FIS101,Física I,Física,1,4,60,2
 
 #### `prerequisitos.csv`: 
 
