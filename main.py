@@ -338,7 +338,9 @@ area_colors = {
         "Telemática": "#565",
         "Bioingeniería": "#668",
         "Proyectos": "#420",
-        "": "#440" 
+        "Idiomas": "#640",
+        "Electiva": "#440" ,
+        "": "#460" ,
     }
 
 
